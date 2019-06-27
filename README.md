@@ -83,10 +83,15 @@
 **默认模式是Inner模式，有三种可供选择，分别是：Inner、Center、Fill。以下分别展示了三种模式：**
 
 **Inner：**
+
 ![](https://imgservice.lost520.cn/InternetImgService/2019-06-27/20190627144318636.png)
+
 **Center：**
+
 ![](https://imgservice.lost520.cn/InternetImgService/2019-06-27/20190627144332197.png)
+
 **Fill：**
+
 ![](https://imgservice.lost520.cn/InternetImgService/2019-06-27/20190627144343497.png)
 
 ## ScaleExpectedColor（期望值的刻度颜色）
